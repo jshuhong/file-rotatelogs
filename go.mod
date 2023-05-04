@@ -1,4 +1,4 @@
-module github.com/iproj/file-rotatelogs
+module github.com/jshuhong/file-rotatelogs
 
 go 1.12
 
