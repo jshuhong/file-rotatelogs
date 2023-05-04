@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	rotatelogs "github.com/iproj/file-rotatelogs"
+	rotatelogs "github.com/jshuhong/file-rotatelogs"
 	"github.com/jonboulle/clockwork"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"

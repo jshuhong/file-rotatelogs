@@ -14,7 +14,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/iproj/file-rotatelogs/internal/fileutil"
+	"github.com/jshuhong/file-rotatelogs/common/fileutil"
 	strftime "github.com/lestrrat-go/strftime"
 	"github.com/pkg/errors"
 )

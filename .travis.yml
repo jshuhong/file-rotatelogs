@@ -1,5 +1,5 @@
 language: go
-go_import_path: github.com/iproj/file-rotatelogs
+go_import_path: github.com/jshuhong/file-rotatelogs
 os : linux
 jobs:
   include:

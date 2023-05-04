@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	rotatelogs "github.com/iproj/file-rotatelogs"
+	rotatelogs "github.com/jshuhong/file-rotatelogs"
 	"github.com/stretchr/testify/assert"
 )
 
